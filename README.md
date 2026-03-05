@@ -2,6 +2,16 @@
 
 React single-page application for Foundation for Muslim Empowerment landing site built with Vite.
 
+## Technologies Used
+
+- **React** (^18.3.1) - UI library for building user interfaces
+- **React DOM** (^18.3.1) - React package for working with the DOM
+- **React Router DOM** (^6.30.0) - Client-side routing for single-page applications
+- **TypeScript** (^5.6.3) - Typed superset of JavaScript
+- **Vite** (^6.0.0) - Next generation frontend build tool
+- **Vite React SWC Plugin** (^3.7.2) - Fast refresh support for React with SWC compiler
+- **gh-pages** (^6.3.0) - Publish files to a gh-pages branch on GitHub
+
 ## Folder structure
 
 - `src/main.tsx`: React entry with router
